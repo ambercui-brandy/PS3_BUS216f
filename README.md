@@ -3,7 +3,8 @@
 ### by Amber Cui and Erin Cao
 
 #### Application Overview
-### ![147441607662278_ pic_hd](https://user-images.githubusercontent.com/62120379/101866307-77e24880-3b46-11eb-9eca-9780d2a499be.jpg)
+### <img width="864" alt="Screen Shot 2020-12-11 at 12 32 29 AM" src="https://user-images.githubusercontent.com/62120379/101867129-70bc3a00-3b48-11eb-9605-fb73ba1cc193.png">
+
 
 #### Step 1: Choose A Family Member Name
 ### <img width="360" alt="WechatIMG1059" src="https://user-images.githubusercontent.com/62120379/101866983-305cbc00-3b48-11eb-87cd-95efe1b3b6d8.png">
