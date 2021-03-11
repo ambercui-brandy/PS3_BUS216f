@@ -1,6 +1,6 @@
-# PS3_BUS216f
-## Assignment 3 for Python II: Family AccountBook
-### by Amber Cui and Erin Cao
+# BUS216f
+## Final Project for Python II: Family AccountBook
+### by Amber Cui
 
 #### Application Overview
 ### <img width="864" alt="Screen Shot 2020-12-11 at 12 32 29 AM" src="https://user-images.githubusercontent.com/62120379/101867129-70bc3a00-3b48-11eb-9605-fb73ba1cc193.png">
